@@ -6,4 +6,4 @@ I'm a software engineer who is passionate about keep to learn new technologies. 
 
 ## Find me around the web 🌎: <a href="https://github.com/hunkargenchcttp"><img align="left" width="150" height="150" src="https://github.com/hunkargenchcttp/hunkargenchcttp/blob/main/ada.jpg"></a>
 
--- Sharing updates on <a href="https://dar.vin/2ckGS">LinkedIn</a> 💼
+-- Sharing updates on <a target="_blank" href="https://dar.vin/2ckGS">LinkedIn</a> 💼
